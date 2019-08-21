@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-15 22:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: applauz.php:27
+msgid "Header Left Widgets"
+msgstr ""
+
+#: applauz.php:33
+msgid "Header Right Widgets"
+msgstr ""
+
+#: applauz.php:39
+msgid "Header Menu Widgets"
+msgstr ""
+
+#: applauz.php:45
+msgid "Header Logo Widgets"
+msgstr ""
+
+#: applauz.php:51
+msgid "Footer Widgets"
+msgstr ""
+
+#: applauz.php:68 bt_bb_tiled_grid.php:259
+msgid "Portfolio"
+msgstr ""
+
+#: applauz.php:69
+msgid "Portfolio Item"
+msgstr ""
+
+#: applauz.php:78
+msgid "Portfolio Categories"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:54
+msgid "by"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:184 bt_bb_tiled_grid.php:205
+msgid "All"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:203
+msgid "Masonry Portfolio Grid"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:203
+msgid "Masonry grid with portfolio posts"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:205 bt_bb_tiled_grid.php:224
+msgid "Number of items"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:205 bt_bb_tiled_grid.php:224
+msgid "Enter number of items or leave empty to show all (up to 1000)"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:206 bt_bb_tiled_grid.php:225
+msgid "Columns"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:208
+msgid "1"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:209
+msgid "2"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:210 bt_bb_tiled_grid.php:227
+msgid "3"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:211 bt_bb_tiled_grid.php:228
+msgid "4"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:212 bt_bb_tiled_grid.php:229
+msgid "5"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:213 bt_bb_tiled_grid.php:230
+msgid "6"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:216
+msgid "Gap"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:218 bt_bb_tiled_grid.php:245
+msgid "No gap"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:219 bt_bb_tiled_grid.php:246
+msgid "Small"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:220 bt_bb_tiled_grid.php:247
+msgid "Normal"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:221 bt_bb_tiled_grid.php:248
+msgid "Large"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:224
+msgid "Category"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:224
+msgid "Enter category slug or leave empty to show all"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:225 bt_bb_tiled_grid.php:233
+msgid "Category filter"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:227 bt_bb_tiled_grid.php:235
+#: bt_bb_tiled_grid.php:253
+msgid "No"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:228 bt_bb_masonry_portfolio_grid.php:231
+#: bt_bb_masonry_portfolio_grid.php:233 bt_bb_masonry_portfolio_grid.php:235
+#: bt_bb_masonry_portfolio_grid.php:237 bt_bb_masonry_portfolio_grid.php:239
+#: bt_bb_masonry_portfolio_grid.php:241 bt_bb_tiled_grid.php:236
+#: bt_bb_tiled_grid.php:254
+msgid "Yes"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:231
+msgid "Show category"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:233
+msgid "Show date"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:235
+msgid "Show author"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:237
+msgid "Show number of comments"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:239
+msgid "Show excerpt"
+msgstr ""
+
+#: bt_bb_masonry_portfolio_grid.php:241
+msgid "Show share icons"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:222
+msgid "Tiled Grid"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:222
+msgid "Grid with tiled posts"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:232
+msgid "Category slug"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:243
+msgid "Grid gap"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:250
+msgid "Tile format"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:251
+msgid "Show titles initially"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:256
+msgid "Post type"
+msgstr ""
+
+#: bt_bb_tiled_grid.php:258
+msgid "Blog"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:20
+msgid "Custom JS"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:44 framework_bt_plugin/framework.php:156
+#: framework_bt_plugin/framework.php:268 framework_bt_plugin/framework.php:389
+msgid "Share on Facebook"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:66 framework_bt_plugin/framework.php:178
+#: framework_bt_plugin/framework.php:290 framework_bt_plugin/framework.php:404
+msgid "Share on Twitter"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:88 framework_bt_plugin/framework.php:200
+#: framework_bt_plugin/framework.php:312 framework_bt_plugin/framework.php:434
+msgid "Share on Google Plus"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:110 framework_bt_plugin/framework.php:222
+#: framework_bt_plugin/framework.php:334
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:132 framework_bt_plugin/framework.php:244
+#: framework_bt_plugin/framework.php:356 framework_bt_plugin/framework.php:449
+msgid "Share on VK"
+msgstr ""
+
+#: framework_bt_plugin/framework.php:419
+msgid "Share on Linkedin"
+msgstr ""

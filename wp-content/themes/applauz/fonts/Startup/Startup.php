@@ -1,0 +1,42 @@
+<?php
+
+$set = strtolower( basename(__FILE__, '.php') );
+
+$$set = array(
+	'adaptation (startup set)' => $set . '_e900',
+	'announcement (startup set)' => $set . '_e901',
+	'banking (startup set)' => $set . '_e902',
+	'brainstorm (startup set)' => $set . '_e903',
+	'brainstorm-1 (startup set)' => $set . '_e904',
+	'browser (startup set)' => $set . '_e905',
+	'charity (startup set)' => $set . '_e906',
+	'coffee-break (startup set)' => $set . '_e907',
+	'contract (startup set)' => $set . '_e908',
+	'creativity (startup set)' => $set . '_e909',
+	'crowdfunding (startup set)' => $set . '_e90a',
+	'discussion (startup set)' => $set . '_e90b',
+	'dna (startup set)' => $set . '_e90c',
+	'fight (startup set)' => $set . '_e90d',
+	'focus (startup set)' => $set . '_e90e',
+	'franchise (startup set)' => $set . '_e90f',
+	'graphic-tool (startup set)' => $set . '_e910',
+	'growth (startup set)' => $set . '_e911',
+	'idea (startup set)' => $set . '_e912',
+	'networking (startup set)' => $set . '_e913',
+	'origami (startup set)' => $set . '_e914',
+	'packaging (startup set)' => $set . '_e915',
+	'padlock (startup set)' => $set . '_e916',
+	'passion (startup set)' => $set . '_e917',
+	'pie-chart (startup set)' => $set . '_e918',
+	'placeholder (startup set)' => $set . '_e919',
+	'presentation (startup set)' => $set . '_e91a',
+	'profits (startup set)' => $set . '_e91b',
+	'profits-1 (startup set)' => $set . '_e91c',
+	'research (startup set)' => $set . '_e91d',
+	'startup (startup set)' => $set . '_e91e',
+	'success (startup set)' => $set . '_e91f',
+	'success-1 (startup set)' => $set . '_e920',
+	'tap (startup set)' => $set . '_e921',
+	'teamwork (startup set)' => $set . '_e922',
+	'teamwork-1 (startup set)' => $set . '_e923'
+);

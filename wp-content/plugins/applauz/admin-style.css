@@ -1,0 +1,27 @@
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item .bt_bb_item .bt_bb_item .bt_bb_item.bt_bb_icon_bt_bb_masonry_portfolio_grid:before, 
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_masonry_portfolio_grid:before {
+	content: "\e955";
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item .bt_bb_item .bt_bb_item .bt_bb_item.bt_bb_icon_bt_bb_masonry_portfolio_tiles:before, 
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_masonry_portfolio_tiles:before {
+	content: "\e906";
+}
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item .bt_bb_item .bt_bb_item .bt_bb_item.bt_bb_icon_bt_bb_masonry_post_tiles:before, 
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_masonry_post_tiles:before {
+	content: "\e906";
+}
+
+/* Material icons */
+
+@font-face {
+  font-family: 'MaterialIcons';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Material Icons'), local('MaterialIcons-Regular'), url('https://fonts.gstatic.com/s/materialicons/v20/2fcrYFNaTjcS6g4U3t-Y5ZjZjT5FdEJ140U2DJYC3mY.woff2') format('woff2');
+}
+
+#bt_bb > .bt_bb_item_list > .bt_bb_wrap .bt_bb_item .bt_bb_item .bt_bb_item .bt_bb_item.bt_bb_icon_bt_bb_progress_bar_advanced:before, 
+.bt_bb_dialog_content .bt_bb_icon_bt_bb_progress_bar_advanced:before {
+	font-family: 'MaterialIcons' !important;
+	content: "\e068";
+}

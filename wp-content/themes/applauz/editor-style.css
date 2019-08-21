@@ -1,0 +1,50 @@
+#tinymce {
+	font-size: 16px;
+	line-height: 1.5;
+}
+#tinymce h1,
+#tinymce h2,
+#tinymce h3,
+#tinymce h4,
+#tinymce h5,
+#tinymce h6 {
+	padding: 0 0 .4em;
+	line-height: 1;
+	margin: 0;
+	font-weight: 300;
+}
+#tinymce h1 {
+    font-size: 5em;
+}
+#tinymce h2 {
+    font-size: 3.75em;
+}	
+#tinymce h3 {
+    font-size: 2.8125em;
+}
+#tinymce h4 {
+    font-size: 2.125em;
+}
+#tinymce h5 {
+    font-size: 1.625em;
+}
+#tinymce h6 {
+    font-size: 1.25em;
+}
+#tinymce blockquote {
+	font-size: 1.1em;
+	padding: 2em 0 0;
+	line-height: 2em;
+	position: relative;
+}
+#tinymce blockquote:before {
+    content: '\201c';
+    opacity: .1;
+    display: block;
+    font-size: 6.4em;
+    line-height: 1;
+    position: absolute;
+    top: -.5rem;
+    left: 0;
+    font-weight: 700;
+}
